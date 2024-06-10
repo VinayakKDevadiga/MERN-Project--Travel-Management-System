@@ -45,7 +45,7 @@ Then you can see server is running  <br>
 <h3>SignIn / Login  Page</h3>
 <img src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/9986d80f-8e1b-4dd3-81fd-2879a9811493"> <br><br><br>
 
-<h3>List Of Travel Packages</h3>
+<h3>List of Travel Packages</h3>
 <img src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/f3afe5e6-4b7e-4458-9fcb-10e57f399831"> <br><br><br>
 
 <h3>Travel Booking Page</h3>
