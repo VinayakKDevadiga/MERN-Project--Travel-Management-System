@@ -1,10 +1,8 @@
-![image](https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/45d0ef25-b193-4023-a333-9f7c15b2d41b)
 Here I used 4 technologies They are MERN stack <br>
 <h4>MongoDB</h4> for Data Store <br>
 <h4>Express.js</h4> as backend Framework <br>
 <h4>Rect.js</h4> as frontEnd Library <br>
 <h4>Node.js</h4> as Runtime Environment for Javascript. <br> <br>
-
 
 
 <h3>Step 1: </h3>
