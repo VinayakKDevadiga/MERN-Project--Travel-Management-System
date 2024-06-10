@@ -1,4 +1,4 @@
-
+![image](https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/45d0ef25-b193-4023-a333-9f7c15b2d41b)
 Here I used 4 technologies They are MERN stack <br>
 <h4>MongoDB</h4> for Data Store <br>
 <h4>Express.js</h4> as backend Framework <br>
@@ -37,13 +37,31 @@ Then you can see server is running  <br>
 
 
 <h3>Here are some snapshots of the project:</h3>
-<img src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/8fbb02d8-b7b3-477d-bd2d-592ae6e1261f"> <br>
-<img src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/9986d80f-8e1b-4dd3-81fd-2879a9811493"> <br>
-<img src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/f3afe5e6-4b7e-4458-9fcb-10e57f399831"> <br>
-<img src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/fc8d06d9-c86f-4631-a055-c2067eb9d4ec"> <br>
-<img src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/9b00d992-cf01-4763-a9f8-63d802dd8f96"> <br>
-<img src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/69e0a800-c113-43be-9f2a-7dcb65919224"> <br>
-<img src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/e8f78cf0-5afc-4ed4-ae67-0c63057c272c"> <br>
-<img src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/85ee4ece-e893-43d0-b413-f58432784167"> <br>
+
+<h3>SignUp Page</h3>
+<img src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/8fbb02d8-b7b3-477d-bd2d-592ae6e1261f"> <br><br><br>
+
+<h3>SignIn / Login  Page</h3>
+<img src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/9986d80f-8e1b-4dd3-81fd-2879a9811493"> <br><br><br>
+
+<h3>List Of Travel Packages</h3>
+<img src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/f3afe5e6-4b7e-4458-9fcb-10e57f399831"> <br><br><br>
+
+<h3>Travel Booking Page</h3>
+<img src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/fc8d06d9-c86f-4631-a055-c2067eb9d4ec"> <br><br><br>
+
+<h3>Checking Booking Status</h3>
+<img src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/9b00d992-cf01-4763-a9f8-63d802dd8f96"> <br><br><br>
+
+<h3>Adding Payment Details Page</h3>
+<img src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/69e0a800-c113-43be-9f2a-7dcb65919224"> <br><br><br>
+
+<h3>Admin Home Page</h3>
+<img src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/e8f78cf0-5afc-4ed4-ae67-0c63057c272c"> <br><br> <br>
+
+<h3>Create New Package</h3>
+<img src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/85ee4ece-e893-43d0-b413-f58432784167"> <br><br> <br>
+
+<h3>Handle Booking Page</h3>
 <img src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/3eb94b10-0e7d-40c9-8daa-83be9a828f83"> <br>
 
