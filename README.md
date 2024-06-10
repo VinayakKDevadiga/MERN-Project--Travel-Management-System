@@ -14,7 +14,7 @@ and we have to fill following details.<br><br>
 
 PORT=5002 <br>
 conn_string="specify your MongoDB connection string" <br>
-ACCESS_TOKEN_SECERT="xyz123 this is for security you can add more secure " <br>
+ACCESS_TOKEN_SECERT="xyz123 this is for security you can add more secure 256 hashed key " <br>
 
 <h2 style="color: red;"># for admin login</h2>
 USERNAME1="you have to specify any admin username" <br>
