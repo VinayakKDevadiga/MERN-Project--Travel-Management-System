@@ -37,7 +37,7 @@ Then you can see server is running  <br>
 
 
 <h3>Here are some snapshots of the project:</h3>
-<img href="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/8fbb02d8-b7b3-477d-bd2d-592ae6e1261f> <br>
+<img src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/8fbb02d8-b7b3-477d-bd2d-592ae6e1261f> <br>
 ![image](https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/9986d80f-8e1b-4dd3-81fd-2879a9811493) <br>
 ![image](https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/f3afe5e6-4b7e-4458-9fcb-10e57f399831) <br>
 ![image](https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/fc8d06d9-c86f-4631-a055-c2067eb9d4ec) <br>
