@@ -1,6 +1,6 @@
 Here I used 4 technologies They are MERN stack <br>
 
-<div style="margin-left: 40%"><img style="width:80% ; height: 20%"  src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/2b0b0e0a-2074-4fcc-96d9-ebefe6cd070f"></div>  <br>
+<img style="width:80% ; height: 20% ; padding-left:40%"  src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/2b0b0e0a-2074-4fcc-96d9-ebefe6cd070f">  <br>
 
 <h4>MongoDB</h4> for Data Store <br>
 <h4>Express.js</h4> as backend Framework <br>
