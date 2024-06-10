@@ -1,9 +1,9 @@
 
 Here I used 4 technologies They are MERN stack <br>
 <h4>MongoDB</h4> for Data Store <br>
-<h5>Express.js</h5> as backend Framework <br>
-<h5>Rect.js</h5> as frontEnd Library <br>
-<h5>Node.js</h5> as Runtime Environment for Javascript. <br> <br>
+<h4>Express.js</h4> as backend Framework <br>
+<h4>Rect.js</h4> as frontEnd Library <br>
+<h4>Node.js</h4> as Runtime Environment for Javascript. <br> <br>
 
 
 
@@ -19,7 +19,7 @@ ACCESS_TOKEN_SECERT="xyz123 this is for security you can add more secure " <br>
 USERNAME1="you have to specify any admin username" <br>
 PASSWORD="password for admin" <br> <br>
 
-Step 2: <br>
+<h3>Step 2: </h3>
 install al dependencies both for server and the client( here its name is navbar) <br>
 To do this run following step: <br>
 go to client directory on terminal and enter <br>
@@ -36,5 +36,5 @@ after installation put command:  npm start <br> <br>
 Then you can see server is running  <br>
 
 
-
+<h3>Here are some snapshots of the project:</h3>
 
