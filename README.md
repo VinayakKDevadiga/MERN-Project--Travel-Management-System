@@ -1,13 +1,13 @@
 
 Here I used 4 technologies They are MERN stack <br>
-<h3>MongoDB</h3> for Data Store <br>
-<h3>Express.js</h3> as backend Framework <br>
-<h3>Rect.js</h3> as frontEnd Library <br>
-<h3>Node.js</h3> as Runtime Environment for Javascript. <br> <br>
+<h5>MongoDB</h5> for Data Store <br>
+<h5>Express.js</h5> as backend Framework <br>
+<h5>Rect.js</h5> as frontEnd Library <br>
+<h5>Node.js</h5> as Runtime Environment for Javascript. <br> <br>
 
 
 
-Step 1: <br>
+<h3>Step 1: </h3>
 To Run this project first we have to create .env file in directory server/config/.env <br>
 and we have to fill following details.<br><br>
 
