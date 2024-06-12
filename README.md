@@ -51,7 +51,7 @@ Then you can see server is running  <br>
 <h3>Travel Booking Page</h3>
 <img src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/fc8d06d9-c86f-4631-a055-c2067eb9d4ec"> <br><br><br>
 
-<h3>Checking Booking Status</h3>
+<h3>Check Booking Status</h3>
 <img src="https://github.com/VinayakKDevadiga/MERN-Project--Travel-Management-System/assets/118720176/9b00d992-cf01-4763-a9f8-63d802dd8f96"> <br><br><br>
 
 <h3>Adding Payment Details Page</h3>
